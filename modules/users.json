@@ -1,0 +1,92 @@
+[
+    {
+        "first_name": "Kelly",
+        "last_name": "Johnson",
+        "email": "elaine39@example.org",
+        "phone": "(338) 526-2306 x004"
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Cardenas",
+        "email": "jonathan54@example.org",
+        "phone": "+1 (209) 559-4297"
+    },
+    {
+        "first_name": "Thomas",
+        "last_name": "Davis",
+        "email": "betty21@example.net",
+        "phone": "1 (239) 006-6595"
+    },
+    {
+        "first_name": "Larry",
+        "last_name": "Miller",
+        "email": "kevintaylor@example.net",
+        "phone": "1-635-059-9075"
+    },
+    {
+        "first_name": "Rebekah",
+        "last_name": "Phelps",
+        "email": "pereztaylor@example.org",
+        "phone": "787-089-1769 x648"
+    },
+    {
+        "first_name": "Eddie",
+        "last_name": "Williams",
+        "email": "hollywilliams@example.com",
+        "phone": "339-984-7680 x216"
+    },
+    {
+        "first_name": "Veronica",
+        "last_name": "Estrada",
+        "email": "chapmanbrad@example.org",
+        "phone": "454-897-3317 x790"
+    },
+    {
+        "first_name": "Cheryl",
+        "last_name": "Rojas",
+        "email": "ahaynes@example.org",
+        "phone": "800-705-4989"
+    },
+    {
+        "first_name": "Stephanie",
+        "last_name": "Kim",
+        "email": "megan37@example.net",
+        "phone": "723.629.6501"
+    },
+    {
+        "first_name": "Thomas",
+        "last_name": "Patrick",
+        "email": "hartcory@example.org",
+        "phone": "128.211.1778"
+    },
+    {
+        "first_name": "Megan",
+        "last_name": "Pacheco",
+        "email": "deannamendoza@example.com",
+        "phone": "(662) 479-4633"
+    },
+    {
+        "first_name": "Samuel",
+        "last_name": "Garcia",
+        "email": "hernandezjack@example.net",
+        "phone": "925-433-5194"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Walker",
+        "email": "ehays@example.org",
+        "phone": "(817) 513-3577 x499"
+    },
+    {
+        "first_name": "Angela",
+        "last_name": "Johnson",
+        "email": "samanthalyons@example.org",
+        "phone": "(432) 189-4763 x431"
+    },
+    {
+        "first_name": "Bernard",
+        "last_name": "Stevens",
+        "email": "kimberlyrussell@example.net",
+        "phone": "752 306 5989"
+    }
+]
